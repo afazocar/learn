@@ -1,1 +1,1 @@
-# coursera
+# Repository for Coursera code
